@@ -5,11 +5,11 @@
   "description": "Tracks the current state of UI translations in Starlight plugins.",
   "homepage": "https://starlight-plugin-translations.netlify.app/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-plugin-translations/issues"
+    "url": "https://github.com/trueberryless/starlight-plugin-translations/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-plugin-translations.git"
+    "url": "https://github.com/trueberryless/starlight-plugin-translations.git"
   },
   "license": "MIT",
   "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",

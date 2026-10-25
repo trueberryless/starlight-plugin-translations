@@ -24,4 +24,4 @@ pnpm dev
 
 Licensed under the MIT license, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/starlight-plugin-translations/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/starlight-plugin-translations/blob/main/LICENSE) for more information.
