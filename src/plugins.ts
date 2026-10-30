@@ -22,13 +22,13 @@ export const PLUGINS: PluginConfig[] = [
   {
     name: "Starlight Cooler Credit",
     packageName: "starlight-cooler-credit",
-    repository: "trueberryless-org/starlight-cooler-credit",
+    repository: "trueberryless/starlight-cooler-credit",
     translationsPath: "packages/starlight-cooler-credit/translations.ts",
   },
   {
     name: "Starlight Group Pages",
     packageName: "starlight-group-pages",
-    repository: "trueberryless-org/starlight-group-pages",
+    repository: "trueberryless/starlight-group-pages",
     translationsPath: "packages/starlight-group-pages/translations.ts",
   },
   {
@@ -52,7 +52,7 @@ export const PLUGINS: PluginConfig[] = [
   {
     name: "Starlight View Modes",
     packageName: "starlight-view-modes",
-    repository: "trueberryless-org/starlight-view-modes",
+    repository: "trueberryless/starlight-view-modes",
     translationsPath: "packages/starlight-view-modes/translations.ts",
   },
 ];
